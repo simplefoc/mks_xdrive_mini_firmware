@@ -54,7 +54,7 @@
 #define CAN0_TX PB_9
 
 // Motor instance
-BLDCMotor motor = BLDCMotor(7, 0.85f, 305.0f, 0.00025f, 0.00025f);
+BLDCMotor motor = BLDCMotor(SET_POLE_PAIRS);
 BLDCDriver6PWM driver = BLDCDriver6PWM(M0_INH_A,M0_INL_A, M0_INH_B,M0_INL_B, M0_INH_C,M0_INL_C, EN_GATE);
 
 
