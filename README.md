@@ -1,4 +1,4 @@
-# MKS XDrive Mini - SimpleFOC Motor Controller
+# MKS XDrive Mini - SimpleFOC Firmware
 
 A complete platformio based implementation for the MKS XDrive Mini board firmware using SimpleFOC.
 This code is desigend to be a starting point for anyone wishing to start with the MKS XDrive Mini board and SimpleFOC,
